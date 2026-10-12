@@ -11,7 +11,7 @@
       CCNA &amp; MikroTik Certified Learner · Dhaka, Bangladesh 🇧🇩
       <br/><br/>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=00D4FF&vCenter=true&width=420&height=24&lines=Next.js+%C2%B7+NestJS+%C2%B7+FastAPI;Clean+APIs.+Secure+Auth.+Polished+UI.;Design+%E2%86%92+Code+%E2%86%92+Deploy" alt="typing"/>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=00D4FF&vCenter=true&width=420&height=24&lines=Next.js+%C2%B7+NestJS+%C2%B7+FastAPI;React+Native+%C2%B7+Expo;Clean+APIs.+Secure+Auth.+Polished+UI.;Design+%E2%86%92+Code+%E2%86%92+Deploy" alt="typing"/>
       </a>
     </td>
   </tr>
@@ -34,13 +34,14 @@ const adil = {
   education: "Diploma in Engineering (Computer Science & Technology)",
   role:      "Full-Stack Developer & UI Designer",
   certs:     ["CCNA", "MikroTik"],
-  building:  ["Full-stack apps", "REST APIs", "Real-time systems"],
+  building:  ["Full-stack apps", "Mobile apps", "REST APIs", "Real-time systems"],
   learning:  ["System Design", "FastAPI", "Docker & DevOps"],
   contact:   "abdurrahmanadil005@gmail.com",
 };
 ```
 
 - Build full-stack apps: **Next.js** frontend, **NestJS / Express / FastAPI** backends, **PostgreSQL / MongoDB** databases
+- Build cross-platform mobile apps with **React Native** and **Expo**
 - Secure authentication with **Better Auth, JWT and OAuth**
 - Real-time features with **Socket.IO**, containerized with **Docker**
 - Design interfaces in **Figma** and **Illustrator**, then ship them pixel-perfect
@@ -58,6 +59,13 @@ const adil = {
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,sass,bootstrap&theme=dark" alt="frontend"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_Native-161b22?style=for-the-badge&logo=react&logoColor=00d4ff" alt="React Native"/>
+      <img src="https://img.shields.io/badge/Expo-161b22?style=for-the-badge&logo=expo&logoColor=00d4ff" alt="Expo"/>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>

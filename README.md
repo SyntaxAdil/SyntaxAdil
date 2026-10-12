@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=header" alt="header"/>
-
 <table>
   <tr>
     <td align="center" width="200">
